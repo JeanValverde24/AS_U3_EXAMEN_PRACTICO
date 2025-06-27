@@ -315,3 +315,7 @@ El entorno Chef-Vagrant-WordPress auditado presenta debilidades críticas de seg
 
 ![Texto alternativo](Evidencias/ultimos.png)
 
+- [Anexo I] Servicios Corriendo
+
+![Texto alternativo](Evidencias/corriendo.png)
+
