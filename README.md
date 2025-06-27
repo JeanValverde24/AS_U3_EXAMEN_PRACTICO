@@ -10,6 +10,9 @@
 **Equipo Auditor:** [Jean Pier Elias Valverde Zamora]  
 **Fecha del informe:** [27/06/2025]  
 
+**LINK REPO**
+
+https://github.com/JeanValverde24/AS_U3_EXAMEN_PRACTICO
 
 ## ÍNDICE
 
