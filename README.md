@@ -283,35 +283,35 @@ El entorno Chef-Vagrant-WordPress auditado presenta debilidades críticas de seg
 
 - [Anexo A] Vagrant Status
 
-![Texto alternativo](evidencias/7.png)
+![Texto alternativo](Evidencias/7.png)
 
 - [Anexo B] Pantalla de WordPress en localhost:8080
 
-![Texto alternativo](evidencias/wordpress.png)
+![Texto alternativo](Evidencias/wordpress.png)
 
 - [Anexo C] Configuración de red
 
 - [Anexo D] Variables de entorno
 
-    ![Texto alternativo](evidencias/credenciales.png)
+    ![Texto alternativo](Evidencias/credenciales.png)
 
 - [Anexo E] Credenciales en texto plano
 
-![Texto alternativo](evidencias/admin.png)
+![Texto alternativo](Evidencias/admin.png)
 
 - [Anexo F] Falta de segregación de ambientes
 
-![Texto alternativo](evidencias/vagranttt.png)
+![Texto alternativo](Evidencias/vagranttt.png)
 
 - [Anexo G] Versiones de software no especificadas
 
-![Texto alternativo](evidencias/nginx.png)
+![Texto alternativo](Evidencias/nginx.png)
 
 - [Anexo H] Configuración de Nginx sin hardening
 
-![Texto alternativo](evidencias/template.png)
+![Texto alternativo](Evidencias/template.png)
 
 - [Anexo I] Hostnames duplicados
 
-![Texto alternativo](evidencias/ultimos.png)
+![Texto alternativo](Evidencias/ultimos.png)
 
